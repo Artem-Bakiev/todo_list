@@ -1,11 +1,6 @@
 npm install
 npm run serve
 
-+ server.py для backend
-
-Сервера разворачиваются 
-http://192.168.1.140:8080 - frontend
-http://192.168.1.140:5000 - backend
 
 # client
 
